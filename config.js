@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94767939688', 'Dinuwa Official²⁰²³', true],
-  ['94767939688', 'Dinuwa Official²⁰²³', true], 
+  ['17245423663', '𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀', true],
+  ['17245423663', '𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['94767939688','94767939688'] 
-global.prems = ['94767939688', '94767939688', '94767939688']
+global.mods = ['17245423663','17245423663'] 
+global.prems = ['17245423663', '17245423663', '17245423663']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,10 +47,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💝 Queen Hentai 💝'
+global.botname = '𝑻𝑶𝑮𝑬 𝑫𝑬𝑷𝑳𝑶𝑰𝑬𝑴𝑬𝑵𝑻'
 global.premium = 'true'
-global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
-global.author = '💝 Dinuwa Official²⁰²³ 💝' 
+global.packname = '𝑻𝑶𝑮𝑬 𝑫𝑬𝑷𝑳𝑶𝑰𝑬𝑴𝑬𝑵𝑻 𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀' 
+global.author = '𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀' 
 global.igfg = '▢ Follow on Facebook\https://www.facebook.com/profile.php?id=61551915615888\n' 
 global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
 global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
